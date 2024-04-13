@@ -8,12 +8,12 @@
             Padding="30,0"
             Spacing="25">
             <Label
-                Text="Bienvenue sur ma page!"
+                Text="Welcome !"
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1" />
 
             <Label
-                Text="Vous trouverez ici plusieurs éléments "
+                Text="This first page is about chess :)"
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Sous titre" />
