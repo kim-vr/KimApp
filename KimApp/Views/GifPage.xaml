@@ -12,7 +12,7 @@
                WidthRequest="300"
                HeightRequest="300"/>
         
-        <Button Text="Retour à l'accueil"
+        <Button Text="Go back"
                 VerticalOptions="End"
                 Clicked="OnBackButtonClicked"/>
     </VerticalStackLayout>

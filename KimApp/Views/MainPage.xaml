@@ -16,7 +16,7 @@
                 Text="This first page is about chess :)"
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Sous titre" />
+                SemanticProperties.Description="Subritle" />
             
             <Grid ColumnDefinitions="*,*">
                 <Image Source="image1.jpg" Grid.Column="0"/>
@@ -26,14 +26,15 @@
             <Button
                 x:Name="CounterBtn"
                 Text="Click me" 
-                SemanticProperties.Hint="Change de page au clic, affichant un gif"
+                SemanticProperties.Hint="Change page on click, displaying a gif"
                 Clicked="OnButtonClicked"
                 HorizontalOptions="Fill" />
             
-            <CarouselView ItemsSource="{Binding .}">
+            <CarouselView x:Name="carouselView" ItemsSource="{Binding Images}" ItemsLayout="HorizontalList"
+                          Loop="True" IsSwipeEnabled="True">
                 <CarouselView.ItemTemplate>
                     <DataTemplate>
-                        <Image Source="{Binding .}"/>
+                        <Image Source="{Binding .}" />
                     </DataTemplate>
                 </CarouselView.ItemTemplate>
             </CarouselView>
