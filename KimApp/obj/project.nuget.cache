@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FYwvAM0M19eRecRcSDR7hnRScA3JMqXDv7c6btFv4z0md3Y3y4o3s0odBnEqj2JD2Wz8mv8suO12qAMpQtnsBQ==",
+  "dgSpecHash": "hOUN1rsZh5gt7GTHgwuL2rGxI0HaN3fibPQawkmQjVAZHkOB2ttSo3L2Xer2VjvzZTqPf8vZhwqA8qF0v+Q6mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kimvr\\OneDrive\\Documents\\MAUI\\KimApp\\KimApp.csproj",
+  "projectFilePath": "C:\\Users\\kimvr\\MAUI\\KimApp\\KimApp\\KimApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kimvr\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\kimvr\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

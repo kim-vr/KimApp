@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
     Ce code a été généré par un outil.
-    Il a été généré à partir de C:\Users\kimvr\OneDrive\Documents\MAUI\KimApp\Platforms\Android\AndroidManifest.xml
+    Il a été généré à partir de C:\Users\kimvr\MAUI\KimApp\KimApp\Platforms\Android\AndroidManifest.xml
     Les changements apportés à ce fichier peuvent provoquer un comportement incorrect et seront perdus si
     le contenu est regénéré.
     -->
@@ -9,7 +9,7 @@
   <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="34" />
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
-  <application android:allowBackup="true" android:icon="@mipmap/appicon" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true" android:name="crc641e02db92a702c7b1.MainApplication" android:label="KimApp" android:debuggable="true" android:extractNativeLibs="true">
+  <application android:allowBackup="true" android:supportsRtl="true" android:name="crc641e02db92a702c7b1.MainApplication" android:label="KimApp" android:debuggable="true" android:extractNativeLibs="true">
     <activity android:configChanges="density|orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:theme="@style/Maui.SplashTheme" android:name="crc641e02db92a702c7b1.MainActivity" android:exported="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

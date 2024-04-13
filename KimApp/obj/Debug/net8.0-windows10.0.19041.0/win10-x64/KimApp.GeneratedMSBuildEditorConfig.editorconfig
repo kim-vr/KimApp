@@ -8,41 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KimApp
-build_property.ProjectDir = C:\Users\kimvr\OneDrive\Documents\MAUI\KimApp\
+build_property.ProjectDir = C:\Users\kimvr\MAUI\KimApp\KimApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/kimvr/OneDrive/Documents/MAUI/KimApp/App.xaml]
+[C:/Users/kimvr/MAUI/KimApp/KimApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KimApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/kimvr/OneDrive/Documents/MAUI/KimApp/AppShell.xaml]
+[C:/Users/kimvr/MAUI/KimApp/KimApp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KimApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/kimvr/OneDrive/Documents/MAUI/KimApp/MainPage.xaml]
+[C:/Users/kimvr/MAUI/KimApp/KimApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KimApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/kimvr/OneDrive/Documents/MAUI/KimApp/Resources/Styles/Colors.xaml]
+[C:/Users/kimvr/MAUI/KimApp/KimApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KimApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/kimvr/OneDrive/Documents/MAUI/KimApp/Resources/Styles/Styles.xaml]
+[C:/Users/kimvr/MAUI/KimApp/KimApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KimApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/kimvr/OneDrive/Documents/MAUI/KimApp/SecondPage.xaml]
+[C:/Users/kimvr/MAUI/KimApp/KimApp/SecondPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KimApp.SecondPage.xaml
 build_metadata.AdditionalFiles.TargetPath = SecondPage.xaml

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
     Ce code a été généré par un outil.
-    Il a été généré à partir de C:\Users\kimvr\OneDrive\Documents\MAUI\KimApp\Platforms\Android\AndroidManifest.xml
+    Il a été généré à partir de C:\Users\kimvr\MAUI\KimApp\KimApp\Platforms\Android\AndroidManifest.xml
     Les changements apportés à ce fichier peuvent provoquer un comportement incorrect et seront perdus si
     le contenu est regénéré.
 -->
@@ -11,7 +11,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <permission android:name="com.companyname.kimapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" android:protectionLevel="signature" />
   <uses-permission android:name="com.companyname.kimapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-  <application android:name="crc641e02db92a702c7b1.MainApplication" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/appicon" android:label="KimApp" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true">
+  <application android:name="crc641e02db92a702c7b1.MainApplication" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:label="KimApp" android:supportsRtl="true">
     <activity android:name="crc641e02db92a702c7b1.MainActivity" android:configChanges="density|orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:exported="true" android:theme="@style/Maui.SplashTheme">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
