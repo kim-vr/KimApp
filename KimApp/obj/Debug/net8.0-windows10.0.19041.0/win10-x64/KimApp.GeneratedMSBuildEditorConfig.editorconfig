@@ -41,3 +41,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KimApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/kimvr/OneDrive/Documents/MAUI/KimApp/SecondPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = KimApp.SecondPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SecondPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SecondPage.xaml

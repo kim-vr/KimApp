@@ -1,15 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <Shell
     x:Class="KimApp.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:KimApp"
     Shell.FlyoutBehavior="Disabled"
-    Title="KimApp">
+    Title="KimApp"
+    BackgroundColor="White"
+    TabBarBackgroundColor="MediumPurple"
+    TabBarTitleColor="White">
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
-
+    <TabBar>
+        <Tab Title="Page 1" Icon="Images/chess_board.png">
+            <ShellContent ContentTemplate="{DataTemplate local:MainPage}"/>
+        </Tab>
+        <Tab Title="Page 2" Icon="Images/chess_queen_alt.png">
+            <ShellContent ContentTemplate="{DataTemplate local:SecondPage}"/>
+        </Tab>
+        <Tab Title="Page 3" Icon="Images/chess_knight_alt.png">
+            <ShellContent ContentTemplate="{DataTemplate local:SecondPage}"/>
+        </Tab>
+        <Tab Title="Page 4" Icon="Images/chess_pawn_alt.png">
+            <ShellContent ContentTemplate="{DataTemplate local:SecondPage}"/>
+        </Tab>
+    </TabBar>
 </Shell>
