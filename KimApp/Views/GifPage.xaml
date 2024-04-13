@@ -5,7 +5,7 @@
 
     <VerticalStackLayout Padding="20" HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
         <Image Source="beth_harmon_gif.gif"
-               x:Name="gifAn"
+               x:Name="GifAn"
                IsAnimationPlaying="True"
                HorizontalOptions="Center"
                VerticalOptions="Center"

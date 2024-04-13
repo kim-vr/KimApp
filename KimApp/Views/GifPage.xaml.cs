@@ -20,9 +20,9 @@ namespace KimApp
             base.OnAppearing();
 
             await Task.Delay(100);
-            gifAn.IsAnimationPlaying = false;
+            GifAn.IsAnimationPlaying = false;
             await Task.Delay(100);
-            gifAn.IsAnimationPlaying = true;
+            GifAn.IsAnimationPlaying = true;
         }
     }
 }
