@@ -315,3 +315,4 @@ C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\refint\K
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\KimApp.pdb
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\KimApp.genruntimeconfig.cache
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\ref\KimApp.dll
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\beth_harmon_gif.gif

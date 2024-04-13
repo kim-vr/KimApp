@@ -180,3 +180,4 @@ C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\beth_harmon_gif.scale-100.gif

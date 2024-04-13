@@ -4,7 +4,8 @@
              Title="GIF Animation">
 
     <VerticalStackLayout Padding="20" HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
-        <Image Source="animated_gif.gif"
+        <Image Source="beth_harmon_gif.gif"
+               x:Name="gifAn"
                IsAnimationPlaying="True"
                HorizontalOptions="Center"
                VerticalOptions="Center"

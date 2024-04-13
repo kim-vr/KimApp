@@ -14,5 +14,15 @@ namespace KimApp
         {
             await Navigation.PopAsync();
         }
+        
+        protected async override void OnAppearing()
+        {
+            base.OnAppearing();
+
+            await Task.Delay(100);
+            gifAn.IsAnimationPlaying = false;
+            await Task.Delay(100);
+            gifAn.IsAnimationPlaying = true;
+        }
     }
 }

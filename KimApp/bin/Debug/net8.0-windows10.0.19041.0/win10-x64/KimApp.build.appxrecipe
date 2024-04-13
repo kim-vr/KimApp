@@ -61,6 +61,9 @@
     <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\beth_harmon_gif.scale-100.gif">
+      <PackagePath>beth_harmon_gif.scale-100.gif</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chess_board.scale-100.png">
       <PackagePath>chess_board.scale-100.png</PackagePath>
     </AppxPackagedFile>

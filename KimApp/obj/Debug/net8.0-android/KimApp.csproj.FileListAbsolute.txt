@@ -1041,3 +1041,4 @@ C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\stamp\_GenerateJavaSt
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\resizetizer\r\drawable\beth_harmon_gif.gif
