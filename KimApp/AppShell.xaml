@@ -21,7 +21,7 @@
             <ShellContent ContentTemplate="{DataTemplate views:ThirdPage}"/>
         </Tab>
         <Tab Title="Page 4" Icon="Images/chess_pawn_alt.png">
-            <ShellContent ContentTemplate="{DataTemplate views:SecondPage}"/>
+            <ShellContent ContentTemplate="{DataTemplate views:FourthPage}"/>
         </Tab>
     </TabBar>
     
