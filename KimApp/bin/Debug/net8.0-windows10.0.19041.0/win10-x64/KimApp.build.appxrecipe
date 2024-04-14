@@ -61,161 +61,20 @@
     <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\beth_harmon_gif.scale-100.gif">
+      <PackagePath>beth_harmon_gif.scale-100.gif</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carousel1.scale-100.png">
+      <PackagePath>carousel1.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carousel2.scale-100.png">
+      <PackagePath>carousel2.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carousel3.scale-100.png">
+      <PackagePath>carousel3.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLargeTile.scale-400.png">
-      <PackagePath>kim_app_iconLargeTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLargeTile.scale-200.png">
-      <PackagePath>kim_app_iconLargeTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLargeTile.scale-150.png">
-      <PackagePath>kim_app_iconLargeTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLargeTile.scale-125.png">
-      <PackagePath>kim_app_iconLargeTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLargeTile.scale-100.png">
-      <PackagePath>kim_app_iconLargeTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconWideTile.scale-400.png">
-      <PackagePath>kim_app_iconWideTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconWideTile.scale-200.png">
-      <PackagePath>kim_app_iconWideTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconWideTile.scale-150.png">
-      <PackagePath>kim_app_iconWideTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconWideTile.scale-125.png">
-      <PackagePath>kim_app_iconWideTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconWideTile.scale-100.png">
-      <PackagePath>kim_app_iconWideTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconMediumTile.scale-400.png">
-      <PackagePath>kim_app_iconMediumTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconMediumTile.scale-200.png">
-      <PackagePath>kim_app_iconMediumTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconMediumTile.scale-150.png">
-      <PackagePath>kim_app_iconMediumTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconMediumTile.scale-125.png">
-      <PackagePath>kim_app_iconMediumTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconMediumTile.scale-100.png">
-      <PackagePath>kim_app_iconMediumTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconSmallTile.scale-400.png">
-      <PackagePath>kim_app_iconSmallTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconSmallTile.scale-200.png">
-      <PackagePath>kim_app_iconSmallTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconSmallTile.scale-150.png">
-      <PackagePath>kim_app_iconSmallTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconSmallTile.scale-125.png">
-      <PackagePath>kim_app_iconSmallTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconSmallTile.scale-100.png">
-      <PackagePath>kim_app_iconSmallTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconStoreLogo.scale-400.png">
-      <PackagePath>kim_app_iconStoreLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconStoreLogo.scale-200.png">
-      <PackagePath>kim_app_iconStoreLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconStoreLogo.scale-150.png">
-      <PackagePath>kim_app_iconStoreLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconStoreLogo.scale-125.png">
-      <PackagePath>kim_app_iconStoreLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconStoreLogo.scale-100.png">
-      <PackagePath>kim_app_iconStoreLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>kim_app_iconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>kim_app_iconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>kim_app_iconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>kim_app_iconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>kim_app_iconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>kim_app_iconLogo.altform-unplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>kim_app_iconLogo.altform-unplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>kim_app_iconLogo.altform-unplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>kim_app_iconLogo.altform-unplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>kim_app_iconLogo.altform-unplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.targetsize-256.png">
-      <PackagePath>kim_app_iconLogo.targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.targetsize-48.png">
-      <PackagePath>kim_app_iconLogo.targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.targetsize-32.png">
-      <PackagePath>kim_app_iconLogo.targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.targetsize-24.png">
-      <PackagePath>kim_app_iconLogo.targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.targetsize-16.png">
-      <PackagePath>kim_app_iconLogo.targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.scale-400.png">
-      <PackagePath>kim_app_iconLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.scale-200.png">
-      <PackagePath>kim_app_iconLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.scale-150.png">
-      <PackagePath>kim_app_iconLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.scale-125.png">
-      <PackagePath>kim_app_iconLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.scale-100.png">
-      <PackagePath>kim_app_iconLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_icon.ico">
-      <PackagePath>kim_app_icon.ico</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chess_pawn_alt.scale-100.png">
-      <PackagePath>chess_pawn_alt.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carousel4.scale-100.png">
+      <PackagePath>carousel4.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carousel5.scale-100.png">
       <PackagePath>carousel5.scale-100.png</PackagePath>
@@ -223,32 +82,173 @@
     <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chess_board.scale-100.png">
       <PackagePath>chess_board.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\image1.scale-100.jpg">
-      <PackagePath>image1.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chess_knight_alt.scale-100.png">
+      <PackagePath>chess_knight_alt.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\beth_harmon_gif.scale-100.gif">
-      <PackagePath>beth_harmon_gif.scale-100.gif</PackagePath>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chess_pawn_alt.scale-100.png">
+      <PackagePath>chess_pawn_alt.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chess_queen_alt.scale-100.png">
       <PackagePath>chess_queen_alt.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carousel4.scale-100.png">
-      <PackagePath>carousel4.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carousel2.scale-100.png">
-      <PackagePath>carousel2.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chess_knight_alt.scale-100.png">
-      <PackagePath>chess_knight_alt.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\image1.scale-100.jpg">
+      <PackagePath>image1.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\image2.scale-100.jpg">
       <PackagePath>image2.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carousel3.scale-100.png">
-      <PackagePath>carousel3.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_icon.ico">
+      <PackagePath>kim_app_icon.ico</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carousel1.scale-100.png">
-      <PackagePath>carousel1.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLargeTile.scale-100.png">
+      <PackagePath>kim_app_iconLargeTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLargeTile.scale-125.png">
+      <PackagePath>kim_app_iconLargeTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLargeTile.scale-150.png">
+      <PackagePath>kim_app_iconLargeTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLargeTile.scale-200.png">
+      <PackagePath>kim_app_iconLargeTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLargeTile.scale-400.png">
+      <PackagePath>kim_app_iconLargeTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>kim_app_iconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>kim_app_iconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>kim_app_iconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>kim_app_iconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>kim_app_iconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-unplated_targetsize-16.png">
+      <PackagePath>kim_app_iconLogo.altform-unplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>kim_app_iconLogo.altform-unplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>kim_app_iconLogo.altform-unplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>kim_app_iconLogo.altform-unplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>kim_app_iconLogo.altform-unplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.scale-100.png">
+      <PackagePath>kim_app_iconLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.scale-125.png">
+      <PackagePath>kim_app_iconLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.scale-150.png">
+      <PackagePath>kim_app_iconLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.scale-200.png">
+      <PackagePath>kim_app_iconLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.scale-400.png">
+      <PackagePath>kim_app_iconLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.targetsize-16.png">
+      <PackagePath>kim_app_iconLogo.targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.targetsize-24.png">
+      <PackagePath>kim_app_iconLogo.targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.targetsize-256.png">
+      <PackagePath>kim_app_iconLogo.targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.targetsize-32.png">
+      <PackagePath>kim_app_iconLogo.targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconLogo.targetsize-48.png">
+      <PackagePath>kim_app_iconLogo.targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconMediumTile.scale-100.png">
+      <PackagePath>kim_app_iconMediumTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconMediumTile.scale-125.png">
+      <PackagePath>kim_app_iconMediumTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconMediumTile.scale-150.png">
+      <PackagePath>kim_app_iconMediumTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconMediumTile.scale-200.png">
+      <PackagePath>kim_app_iconMediumTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconMediumTile.scale-400.png">
+      <PackagePath>kim_app_iconMediumTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconSmallTile.scale-100.png">
+      <PackagePath>kim_app_iconSmallTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconSmallTile.scale-125.png">
+      <PackagePath>kim_app_iconSmallTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconSmallTile.scale-150.png">
+      <PackagePath>kim_app_iconSmallTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconSmallTile.scale-200.png">
+      <PackagePath>kim_app_iconSmallTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconSmallTile.scale-400.png">
+      <PackagePath>kim_app_iconSmallTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconStoreLogo.scale-100.png">
+      <PackagePath>kim_app_iconStoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconStoreLogo.scale-125.png">
+      <PackagePath>kim_app_iconStoreLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconStoreLogo.scale-150.png">
+      <PackagePath>kim_app_iconStoreLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconStoreLogo.scale-200.png">
+      <PackagePath>kim_app_iconStoreLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconStoreLogo.scale-400.png">
+      <PackagePath>kim_app_iconStoreLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconWideTile.scale-100.png">
+      <PackagePath>kim_app_iconWideTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconWideTile.scale-125.png">
+      <PackagePath>kim_app_iconWideTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconWideTile.scale-150.png">
+      <PackagePath>kim_app_iconWideTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconWideTile.scale-200.png">
+      <PackagePath>kim_app_iconWideTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kim_app_iconWideTile.scale-400.png">
+      <PackagePath>kim_app_iconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kimvr\MAUI\KimApp\KimApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\KimApp.deps.json">
       <PackagePath>KimApp.deps.json</PackagePath>

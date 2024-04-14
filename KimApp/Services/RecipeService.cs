@@ -1,6 +1,8 @@
 using System.Net.Http.Json;
 using System.Text.Json;
 
+namespace KimApp.Services;
+
 public class RecipeService
 {
     private HttpClient _client;

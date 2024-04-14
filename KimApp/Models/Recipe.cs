@@ -12,17 +12,14 @@ public class Recipe
     public int cookTime { get; set; }
     public int totalTime { get; set; }
     public int servings { get; set; }
-    public int yield { get; set; }
     public string ingredients { get; set; }
     public string tags { get; set; }
     public string ratings { get; set; }
     public string publicUrl { get; set; }
     public string photoUrl { get; set; }
     public string nutritionalScoreGeneric { get; set; }
-    public int calories { get; set; }
     public string fat { get; set; }
     public string cholesterol { get; set; }
-    public string sodium { get; set; }
     public string carbohydrate { get; set; }
     public string fiber { get; set; }
     public string protein { get; set; }
