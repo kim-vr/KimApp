@@ -1,4 +1,5 @@
-﻿using System.Timers;
+﻿using System.Diagnostics;
+using System.Timers;
 using KimApp.Services;
 using TimersTimer = System.Timers.Timer;
 using KimApp.ViewModels;
@@ -23,15 +24,23 @@ namespace KimApp.Views
             InitializeComponent();
         }
 
-        private async void LoadRecipeDetails(int recipeId)
+        private  void LoadRecipeDetails(int recipeId)
         {
-            var recipe = await new RecipeService().GetRecipeByIdAsync(recipeId);
+            var recipe = new RecipeService().GetRecipeById(recipeId);
             this.BindingContext = new RecipeDetailViewModel(recipeId);
         }
         
         private async void OnBackButtonClicked(object sender, EventArgs e)
         {
-            await Navigation.PopAsync();
+            try
+            {
+                await Shell.Current.GoToAsync("..");
+            }
+            catch (Exception ex)
+            {
+                //Erreur rencontrée
+                Debug.WriteLine($"Navigation error: {ex.Message}");
+            }
         }
     }
 

@@ -1,3 +1,5 @@
+using System.Collections.ObjectModel;
+
 namespace KimApp.Services;
 
 using System.Text.Json;
@@ -8,7 +10,7 @@ public class RecipeService
     public static RecipeService Instance => _instance ??= new RecipeService();
     private HttpClient _client;
     private string _apiUrl = "https://api.sampleapis.com/recipes/recipes";
-    private List<Recipe> _recipes = new List<Recipe>(); 
+    private ObservableCollection<Recipe> _recipes = new ObservableCollection<Recipe>();
 
     public RecipeService()
     {
@@ -31,10 +33,20 @@ public class RecipeService
         string responseBody = await response.Content.ReadAsStringAsync();
         return JsonSerializer.Deserialize<Recipe>(responseBody, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
     }
+    
+    public Recipe GetRecipeById(int id)
+    {
+        return _recipes.FirstOrDefault(r => r.id == id);
+    }
 
     public Task AddRecipeAsync(Recipe recipe)
     {
         _recipes.Insert(0, recipe);  
         return Task.CompletedTask;
+    }
+    
+    public ObservableCollection<Recipe> GetRecipes()
+    {
+        return _recipes;
     }
 }

@@ -311,3 +311,4 @@ C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\r
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\carousel1.png
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\carousel3.png
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\carousel2.png
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\crepes.jpg

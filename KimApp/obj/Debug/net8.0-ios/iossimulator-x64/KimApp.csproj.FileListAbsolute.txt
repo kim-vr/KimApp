@@ -323,3 +323,4 @@ C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizeti
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\carousel2.png
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\carousel1.png
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\carousel5.png
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\crepes.jpg

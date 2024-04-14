@@ -1049,3 +1049,4 @@ C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\resizetizer\r\drawabl
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\resizetizer\r\drawable\carousel4.png
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\resizetizer\r\drawable\carousel2.png
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\resizetizer\r\drawable\crepes.jpg

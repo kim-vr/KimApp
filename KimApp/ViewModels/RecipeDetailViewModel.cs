@@ -4,11 +4,11 @@ using KimApp.Services;
 
 public class RecipeDetailViewModel : BindableObject
 {
-    public Recipe Recipe { get; private set; }
+    public Recipe Recipe { get; set; }
 
     public RecipeDetailViewModel(int recipeId)
     {
-        LoadRecipeDetails(recipeId);
+        Recipe = RecipeService.Instance.GetRecipeById(recipeId);
     }
 
     private async void LoadRecipeDetails(int recipeId)

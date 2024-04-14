@@ -188,3 +188,4 @@ C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carousel2.scale-100.png
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carousel3.scale-100.png
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carousel1.scale-100.png
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\crepes.scale-100.jpg

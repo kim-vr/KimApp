@@ -13,7 +13,7 @@ public class SecondPageViewModel : BindableObject
     public Command<Recipe> RecipeSelectedCommand { get; } 
     public SecondPageViewModel()
     {
-        Recipes = new ObservableCollection<Recipe>();
+        Recipes = RecipeService.Instance.GetRecipes();
         RecipeSelectedCommand = new Command<Recipe>(NavigateToDetails);
         LoadRecipes();
     }
