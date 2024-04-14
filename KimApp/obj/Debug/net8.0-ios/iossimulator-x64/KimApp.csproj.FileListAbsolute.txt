@@ -324,3 +324,12 @@ C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizeti
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\carousel1.png
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\carousel5.png
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\crepes.jpg
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\kim_app_icon_E9EE3967920CE980223330C5E2A9E7AC07BD965550BCD41B4E85F95E974E3865.png
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\kim_app_icon_E9EE3967920CE980223330C5E2A9E7AC07BD965550BCD41B4E85F95E974E3865@2x.png
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\kim_app_icon_E9EE3967920CE980223330C5E2A9E7AC07BD965550BCD41B4E85F95E974E3865@3x.png
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\kim_app_icon_B75E16C200CBDF5CFA01D65CE4C86695EE618EA551D0998161B814BB963A5BC3.png
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\kim_app_icon_B75E16C200CBDF5CFA01D65CE4C86695EE618EA551D0998161B814BB963A5BC3@2x.png
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\kim_app_icon_B75E16C200CBDF5CFA01D65CE4C86695EE618EA551D0998161B814BB963A5BC3@3x.png
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\kim_app_icon_30FFE4B5CB03CC092D960F0311146EB980045ABFB251793E6B707B3AF328EB2B.png
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\kim_app_icon_30FFE4B5CB03CC092D960F0311146EB980045ABFB251793E6B707B3AF328EB2B@2x.png
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\kim_app_icon_30FFE4B5CB03CC092D960F0311146EB980045ABFB251793E6B707B3AF328EB2B@3x.png

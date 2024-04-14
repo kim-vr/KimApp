@@ -12,4 +12,4 @@ File=Resources\Images\crepes.jpg;Link=;BaseSize=;Resize=;TintColor=;Color=;IsApp
 File=Resources\Images\dotnet_bot.png;Link=;BaseSize=300,185;Resize=True;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
 File=Resources\Images\image1.jpg;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
 File=Resources\Images\image2.jpg;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
-File=Resources\AppIcon\kim_app_icon.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=True;ForegroundScale=;ForegroundFile=
+File=Resources\AppIcon\kim_app_icon.svg;Link=;BaseSize=512,512;Resize=;TintColor=;Color=#ECE9FF;IsAppIcon=True;ForegroundScale=;ForegroundFile=Resources\AppIcon\kim_app_icon.svg

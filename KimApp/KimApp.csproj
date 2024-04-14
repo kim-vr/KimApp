@@ -40,10 +40,11 @@
 
 	<ItemGroup>
 		<!-- App Icon -->
-		<MauiIcon Include="Resources\AppIcon\kim_app_icon.png" />
+		<MauiIcon Include="Resources\AppIcon\kim_app_icon.svg" BaseSize="512,512"
+		ForegroundFile="Resources\AppIcon\kim_app_icon.svg" Color="#ECE9FF"/>
 
 		<!-- Splash Screen -->
-		<MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#512BD4" BaseSize="128,128" />
+		<MauiSplashScreen Include="Resources\AppIcon\kim_app_icon.svg" Color="#ECE9FF" BaseSize="128,128" />
 
 		<!-- Images -->
 		<MauiImage Include="Resources\Images\*" />
