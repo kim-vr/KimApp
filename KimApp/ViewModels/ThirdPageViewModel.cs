@@ -54,6 +54,14 @@ namespace KimApp.ViewModels
 
         private async Task AddRecipeAsync()
         {
+            if (string.IsNullOrWhiteSpace(Title) ||
+                string.IsNullOrWhiteSpace(Ingredients) ||
+                string.IsNullOrWhiteSpace(PhotoUrl))
+            {
+                await Application.Current.MainPage.DisplayAlert("Error", "Please fill in all fields", "OK");
+                return;
+            }
+            
             var recipe = new Recipe
             {
                 title = Title,
@@ -61,8 +69,19 @@ namespace KimApp.ViewModels
                 photoUrl = PhotoUrl
             };
 
+            
             await _recipeService.AddRecipeAsync(recipe);
+            await Application.Current.MainPage.DisplayAlert("Success", "The recipe is correctly added to the list !", "OK");
+            
+            Title = string.Empty;
+            Ingredients = string.Empty;
+            PhotoUrl = string.Empty;
+            
+            OnPropertyChanged(nameof(Title));
+            OnPropertyChanged(nameof(Ingredients));
+            OnPropertyChanged(nameof(PhotoUrl));
         }
+
 
         private async Task PickImageAsync()
         {

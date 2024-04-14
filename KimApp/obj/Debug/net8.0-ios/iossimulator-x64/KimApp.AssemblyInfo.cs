@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KimApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4699d0f9580cd8dabe5844939959566c8b10ff7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4d9c93c6e3f29f31ea03e544782260488fec8836")]
 [assembly: System.Reflection.AssemblyProductAttribute("KimApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KimApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
