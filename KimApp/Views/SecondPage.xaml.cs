@@ -2,7 +2,7 @@
 using TimersTimer = System.Timers.Timer;
 using KimApp.ViewModels;
 
-namespace KimApp
+namespace KimApp.Views
 {
     public partial class SecondPage : ContentPage
     {

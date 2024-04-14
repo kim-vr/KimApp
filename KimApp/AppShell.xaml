@@ -2,7 +2,6 @@
     x:Class="KimApp.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:KimApp.Views"
     xmlns:views="clr-namespace:KimApp.Views"
     xmlns:kimApp="clr-namespace:KimApp"
     Shell.FlyoutBehavior="Disabled"
@@ -16,18 +15,14 @@
             <ShellContent ContentTemplate="{DataTemplate kimApp:MainPage}"/>
         </Tab>
         <Tab Title="Page 2" Icon="Images/chess_queen_alt.png">
-            <ShellContent ContentTemplate="{DataTemplate kimApp:SecondPage}"/>
+            <ShellContent ContentTemplate="{DataTemplate views:SecondPage}"/>
         </Tab>
         <Tab Title="Page 3" Icon="Images/chess_knight_alt.png">
-            <ShellContent ContentTemplate="{DataTemplate local:ThirdPage}"/>
+            <ShellContent ContentTemplate="{DataTemplate views:ThirdPage}"/>
         </Tab>
         <Tab Title="Page 4" Icon="Images/chess_pawn_alt.png">
-            <ShellContent ContentTemplate="{DataTemplate kimApp:SecondPage}"/>
+            <ShellContent ContentTemplate="{DataTemplate views:SecondPage}"/>
         </Tab>
     </TabBar>
     
-    <ShellContent Route="secondPage" ContentTemplate="{DataTemplate kimApp:SecondPage}" />
-    <ShellContent
-        Route="recipeDetail"
-        ContentTemplate="{DataTemplate local:RecipeDetailPage}" />
 </Shell>

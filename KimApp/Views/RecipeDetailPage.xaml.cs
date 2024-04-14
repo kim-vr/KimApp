@@ -23,17 +23,16 @@ namespace KimApp.Views
         {
             InitializeComponent();
         }
+        
+        private async void OnBackButtonClicked(object sender, EventArgs e)
+        {
+            await Shell.Current.GoToAsync("..");
+        }
 
         private  void LoadRecipeDetails(int recipeId)
         {
             var recipe = new RecipeService().GetRecipeById(recipeId);
             this.BindingContext = new RecipeDetailViewModel(recipeId);
-        }
-        
-        private async void OnBackButtonClicked(object sender, EventArgs e)
-        {
-            await Shell.Current.GoToAsync("//secondPage");
-           
         }
     }
 

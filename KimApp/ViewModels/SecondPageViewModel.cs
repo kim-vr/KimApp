@@ -23,8 +23,7 @@ public class SecondPageViewModel : BindableObject
         if (selectedRecipe == null)
             return;
         
-        string route = $"///recipeDetail?recipeId={selectedRecipe.id}";
-        await Shell.Current.GoToAsync(route);
+        await Shell.Current.GoToAsync($"{nameof(RecipeDetailPage)}?recipeId={selectedRecipe.id}");
     }
 
     private async void LoadRecipes()
