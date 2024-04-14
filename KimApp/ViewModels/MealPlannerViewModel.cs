@@ -5,21 +5,24 @@ using Microsoft.Maui.Controls;
 
 public class MealPlannerViewModel : BindableObject
 {
-    public ObservableCollection<MealPlan> Meals { get; }
+    public ObservableCollection<MealPlan> Meals { get; set; }
 
     public MealPlannerViewModel()
     {
         Meals = new ObservableCollection<MealPlan>();
-        // Example data
-        Meals.Add(new MealPlan { Day = "Monday", Meal = "Chicken Salad", Strategy = "Balanced Diet" });
+        Meals.Add(new MealPlan { Day = "Monday", Meal = "" });
+        Meals.Add(new MealPlan { Day = "Tuesday", Meal = "" });
+        Meals.Add(new MealPlan { Day = "Wednesday", Meal = "" });
+        Meals.Add(new MealPlan { Day = "Thursday", Meal = "" });
+        Meals.Add(new MealPlan { Day = "Friday", Meal = "" });
+        Meals.Add(new MealPlan { Day = "Saturday", Meal = "" });
+        Meals.Add(new MealPlan { Day = "Sunday", Meal = "" });
     }
-
-    public Command AddMealCommand => new Command(() => Meals.Add(new MealPlan { Day = "Tuesday", Meal = "Beef Stew", Strategy = "High Protein" }));
+    
 }
 
 public class MealPlan
 {
     public string Day { get; set; }
     public string Meal { get; set; }
-    public string Strategy { get; set; }
 }
