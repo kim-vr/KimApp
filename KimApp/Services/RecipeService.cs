@@ -20,4 +20,23 @@ public class RecipeService
         var json = await response.Content.ReadAsStringAsync();
         return JsonSerializer.Deserialize<List<Recipe>>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
     }
+    
+    public async Task<Recipe> GetRecipeByIdAsync(int id)
+    {
+        Recipe recipe = null;
+        string url = $"https://api.sampleapis.com/recipes/recipes/{id}";
+        try
+        {
+            HttpResponseMessage response = await _client.GetAsync(url);
+            response.EnsureSuccessStatusCode(); 
+            string responseBody = await response.Content.ReadAsStringAsync();
+            recipe = JsonSerializer.Deserialize<Recipe>(responseBody, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+        }
+        catch (HttpRequestException e)
+        {
+            Console.WriteLine("\nException Caught!");
+            Console.WriteLine("Message :{0} ", e.Message);
+        }
+        return recipe;
+    }
 }
