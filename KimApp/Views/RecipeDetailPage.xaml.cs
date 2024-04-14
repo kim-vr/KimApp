@@ -32,15 +32,8 @@ namespace KimApp.Views
         
         private async void OnBackButtonClicked(object sender, EventArgs e)
         {
-            try
-            {
-                await Shell.Current.GoToAsync("..");
-            }
-            catch (Exception ex)
-            {
-                //Erreur rencontrée
-                Debug.WriteLine($"Navigation error: {ex.Message}");
-            }
+            await Shell.Current.GoToAsync("//secondPage");
+           
         }
     }
 

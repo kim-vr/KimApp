@@ -26,6 +26,7 @@
         </Tab>
     </TabBar>
     
+    <ShellContent Route="secondPage" ContentTemplate="{DataTemplate kimApp:SecondPage}" />
     <ShellContent
         Route="recipeDetail"
         ContentTemplate="{DataTemplate local:RecipeDetailPage}" />
