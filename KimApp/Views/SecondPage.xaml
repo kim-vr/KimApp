@@ -18,7 +18,12 @@
                     <DataTemplate>
                         <StackLayout>
                             <Label Text="{Binding title}" />
-                            <Image Source="{Binding photoUrl}"></Image>
+                            <Image Source="{Binding photoUrl}"
+                            Aspect="AspectFill" 
+                            WidthRequest="200" 
+                            HeightRequest="200" 
+                            HorizontalOptions="Center"
+                            VerticalOptions="Center" />
                             <StackLayout.GestureRecognizers>
                                 <TapGestureRecognizer 
                                     Command="{Binding Path=BindingContext.RecipeSelectedCommand, Source={x:Reference SecondPageName}}"
