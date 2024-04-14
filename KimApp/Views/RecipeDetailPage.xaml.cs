@@ -28,6 +28,11 @@ namespace KimApp.Views
             var recipe = await new RecipeService().GetRecipeByIdAsync(recipeId);
             this.BindingContext = new RecipeDetailViewModel(recipeId);
         }
+        
+        private async void OnBackButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PopAsync();
+        }
     }
 
 }

@@ -12,6 +12,9 @@
             <Image Source="{Binding Recipe.imageUrl}" 
                    Aspect="AspectFit"/>
             <Label Text="{Binding Recipe.ingredients}" />
+            <Button Text="Go back"
+                    VerticalOptions="End"
+                    Clicked="OnBackButtonClicked"/>
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

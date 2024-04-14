@@ -1040,7 +1040,6 @@ C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\stamp\_ConvertResourc
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\resizetizer\r\drawable\beth_harmon_gif.gif
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\resizetizer\r\drawable\image2.jpg
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\resizetizer\r\drawable\image1.jpg
@@ -1049,3 +1048,4 @@ C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\resizetizer\r\drawabl
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\resizetizer\r\drawable\carousel1.png
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\resizetizer\r\drawable\carousel4.png
 C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\resizetizer\r\drawable\carousel2.png
+C:\Users\kimvr\MAUI\KimApp\KimApp\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll

@@ -9,7 +9,7 @@
             Padding="30,0"
             Spacing="25">
             <Label
-                Text="Welcome !"
+                Text="Here are some recipes :)"
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1" />
 
